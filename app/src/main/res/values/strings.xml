@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapNavigation</string>
+
+    <string name="baidu_map_package">com.baidu.BaiduMap</string>
+    <string name="gaode_map_package">com.autonavi.minimap</string>
+    <string name="open_web_map_tips">即将打开的是网页版地图，建议您先安装地图应用，确保可以正常使用导航功能</string>
+</resources>
